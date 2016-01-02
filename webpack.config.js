@@ -5,7 +5,9 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin');
 module.exports = {
   entry: {
     index: './app/Index',
-    tables: './app/Tables'
+    tables: './app/Tables',
+    forms: './app/Forms',
+    screenreaderOnly: './app/ScreenreaderOnly'
   },
   output: {
     path: path.resolve(__dirname, 'public', 'assets'),

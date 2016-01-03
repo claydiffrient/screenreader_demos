@@ -16,7 +16,7 @@ const Index = () => {
             <li><a href='/tables.html'>Tables</a></li>
             <li><a href='/forms.html'>Forms</a></li>
             <li><a href='/screenreader-only.html'>.screenreader-only</a></li>
-            <li><a href='/descriptive-text.html'>Descriptive Text</a></li>
+            {/*<li><a href='/descriptive-text.html'>Descriptive Text</a></li> */}
             <li><a href='/button-vs-link.html'>Button vs. Link</a></li>
             <li><a href='/headings.html'>Headings</a></li>
             <li><a href='/live-regions.html'>Live Regions</a></li>

@@ -8,7 +8,8 @@ module.exports = {
     tables: './app/Tables',
     forms: './app/Forms',
     screenreaderOnly: './app/ScreenreaderOnly',
-    buttons: './app/Buttons'
+    buttons: './app/Buttons',
+    headings: './app/Headings'
   },
   output: {
     path: path.resolve(__dirname, 'public', 'assets'),

@@ -9,7 +9,8 @@ module.exports = {
     forms: './app/Forms',
     screenreaderOnly: './app/ScreenreaderOnly',
     buttons: './app/Buttons',
-    headings: './app/Headings'
+    headings: './app/Headings',
+    liveRegions: './app/LiveRegions'
   },
   output: {
     path: path.resolve(__dirname, 'public', 'assets'),

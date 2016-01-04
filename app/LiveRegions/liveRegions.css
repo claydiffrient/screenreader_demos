@@ -1,0 +1,9 @@
+.liveRegion {
+  height: 30vh;
+  border: 1px black solid;
+  overflow: scroll;
+}
+
+.top-space {
+  margin-top: 5vh;
+}

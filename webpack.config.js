@@ -10,7 +10,8 @@ module.exports = {
     screenreaderOnly: './app/ScreenreaderOnly',
     buttons: './app/Buttons',
     headings: './app/Headings',
-    liveRegions: './app/LiveRegions'
+    liveRegions: './app/LiveRegions',
+    images: './app/Images'
   },
   output: {
     path: path.resolve(__dirname, 'public', 'assets'),

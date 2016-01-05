@@ -13,6 +13,7 @@ const Index = () => {
       <div className='row'>
         <div className='col-xs-12'>
           <ul className='nav nav-pills nav-stacked text-center'>
+            <li><a href='/images.html'>Images</a></li>
             <li><a href='/tables.html'>Tables</a></li>
             <li><a href='/forms.html'>Forms</a></li>
             <li><a href='/screenreader-only.html'>.screenreader-only</a></li>
